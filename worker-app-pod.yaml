@@ -8,5 +8,5 @@ metadata:
 spec:
   containers:
     - name: worker-app
-      image: betrand1999/betrandapp:v1
+      image: kodekloud/examplevotingapp_worker:v1
      
